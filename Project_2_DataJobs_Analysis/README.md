@@ -116,8 +116,8 @@ This dashboard provides a macro-level analysis of the data job industry and serv
 
 
 
+<img width="1372" height="790" alt="image" src="https://github.com/user-attachments/assets/d59a61b4-0157-479e-980f-3dd2dcf5dc1b" />
 
-<img width="1367" height="787" alt="image" src="https://github.com/user-attachments/assets/c1ac79c4-16f3-4796-826f-04dc063d982b" />
 
 
 
@@ -182,7 +182,8 @@ The drill-through functionality enables users to investigate individual job role
 
 The example demonstrated in this project focuses on the Data Scientist role:
 
-<img width="1360" height="757" alt="image" src="https://github.com/user-attachments/assets/ffe36d5a-a3f6-4cc4-a362-8b88432d05da" />
+<img width="1367" height="766" alt="image" src="https://github.com/user-attachments/assets/e82d9287-6701-4b9a-b68f-8e2c646feee7" />
+
 
 ## Key Metrics
 - Median Annual Salary: $125K
